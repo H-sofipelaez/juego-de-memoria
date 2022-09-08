@@ -1,2 +1,2 @@
 # juego-de-memoria
-ir la brush Rama_delpropietario, ahi estan las carpetas del proyecto
+ir la  branches Rama_del_propietario, ahi estan las carpetas del proyecto
